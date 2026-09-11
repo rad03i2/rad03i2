@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="520" viewBox="0 0 1200 520" role="img" aria-labelledby="title desc">
+<title id="title">Radwan Abdulhadi Ahmed — Creative Developer</title>
+<desc id="desc">A dark cyan and violet creative development banner. Code with purpose. Create with character. Web development, interface design, and creative experiments.</desc>
+<defs>
+<linearGradient id="bg" x2="1" y2="1"><stop stop-color="#090f20"/><stop offset="1" stop-color="#17132e"/></linearGradient>
+<linearGradient id="accent"><stop stop-color="#5eead4"/><stop offset=".5" stop-color="#67e8f9"/><stop offset="1" stop-color="#a78bfa"/></linearGradient>
+<radialGradient id="glow"><stop stop-color="#6552d9" stop-opacity=".3"/><stop offset="1" stop-color="#6552d9" stop-opacity="0"/></radialGradient>
+<pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#b5c5ff" stroke-opacity=".045"/></pattern>
+</defs>
+<rect width="1200" height="520" rx="22" fill="url(#bg)"/>
+<rect width="1200" height="520" rx="22" fill="url(#grid)"/>
+<ellipse cx="950" cy="220" rx="310" ry="260" fill="url(#glow)"/>
+<rect x="1" y="1" width="1198" height="518" rx="21" fill="none" stroke="#33405d"/>
+<path d="M40 1H1160" stroke="url(#accent)" stroke-width="3"/>
+<g font-family="Segoe UI, Arial, sans-serif">
+<rect x="48" y="39" width="230" height="30" rx="15" fill="#11282e" stroke="#25474b"/>
+<circle cx="65" cy="54" r="4" fill="#5eead4"/>
+<text x="79" y="59" fill="#a8f3e6" font-size="12" font-weight="600" letter-spacing="2">THE CREATIVE DEVELOPER</text>
+<text x="48" y="112" fill="#bac6df" font-size="17" letter-spacing="1">RADWAN ABDULHADI AHMED</text>
+<text x="45" y="182" fill="#f6f8ff" font-size="57" font-weight="750" letter-spacing="-2">Code with purpose.</text>
+<text x="45" y="248" fill="url(#accent)" font-size="57" font-weight="750" letter-spacing="-2">Create with character.</text>
+<text x="48" y="289" fill="#a3b2ce" font-size="18">Turning ideas into thoughtful digital experiences.</text>
+<g font-size="13" font-weight="600" letter-spacing="1">
+<rect x="48" y="316" width="79" height="30" rx="7" fill="#142036" stroke="#2b3d59"/><text x="67" y="336" fill="#e3eaff">HTML</text>
+<rect x="137" y="316" width="70" height="30" rx="7" fill="#142036" stroke="#2b3d59"/><text x="158" y="336" fill="#e3eaff">CSS</text>
+<rect x="217" y="316" width="133" height="30" rx="7" fill="#142036" stroke="#2b3d59"/><text x="233" y="336" fill="#e3eaff">JAVASCRIPT</text>
+<rect x="360" y="316" width="102" height="30" rx="7" fill="#142036" stroke="#2b3d59"/><text x="378" y="336" fill="#e3eaff">GITHUB</text>
+</g>
+<g transform="translate(949 205)">
+<circle r="135" fill="none" stroke="#444365" stroke-dasharray="3 10"/>
+<ellipse rx="166" ry="63" transform="rotate(-35)" fill="none" stroke="#72dfeb" stroke-opacity=".5"/>
+<ellipse rx="166" ry="63" transform="rotate(35)" fill="none" stroke="#ae8efa" stroke-opacity=".5"/>
+<circle r="94" fill="#0d172b" stroke="#34455e"/>
+<path d="M-40-24L-67 0L-40 24M40-24L67 0L40 24M15-43L-15 43" fill="none" stroke="url(#accent)" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="135" cy="-84" r="7" fill="#5eead4"/><circle cx="-130" cy="-93" r="5" fill="#a78bfa"/>
+</g>
+<text x="949" y="378" text-anchor="middle" fill="#97aacb" font-size="13" letter-spacing="4">IMAGINE / BUILD / REFINE</text>
+<path d="M48 403H1152" stroke="#2a3450"/>
+<g font-size="13" fill="#8d9fbe"><text x="48" y="438" fill="#5eead4" font-family="Consolas, monospace">01 / DEVELOP</text><text x="425" y="438" fill="#80ceff" font-family="Consolas, monospace">02 / DESIGN</text><text x="802" y="438" fill="#b8a1ff" font-family="Consolas, monospace">03 / EXPERIMENT</text></g>
+<g font-size="21" font-weight="600" fill="#edf1fc"><text x="48" y="470">Web experiences</text><text x="425" y="470">Interfaces with detail</text><text x="802" y="470">Curiosity into code</text></g>
+<g font-size="13" fill="#91a1bd"><text x="48" y="494">Structure. Style. Interaction.</text><text x="425" y="494">Visual clarity. Arabic + RTL.</text><text x="802" y="494">Explore. Learn. Keep creating.</text></g>
+</g></svg>
