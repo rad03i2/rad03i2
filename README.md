@@ -11,6 +11,8 @@
   &nbsp;·&nbsp;
   <a href="https://github.com/rad03i2">GitHub</a>
   &nbsp;·&nbsp;
+  <a href="https://mikhbar.website/"><b>📰 Mikhbar / مِخبار</b></a>
+  &nbsp;·&nbsp;
   <a href="https://www.instagram.com/rad_03i">Instagram</a>
   &nbsp;·&nbsp;
   <a href="https://www.facebook.com/rad03e">Facebook</a>
@@ -125,6 +127,16 @@ I build practical projects across desktop tools, web interfaces, robotics, autom
 - Improving Arabic-friendly user interfaces.
 - Practicing robotics, IoT, automation, and data-analysis projects.
 - Organizing projects with clear documentation and reusable components.
+
+## Mikhbar — مِخبار
+
+**[Mikhbar](https://mikhbar.website/)** is an independent Arabic-English technology publication for technology news, AI, cybersecurity, robotics, automation, software, web and computing coverage.
+
+- Official publication website: **[mikhbar.website](https://mikhbar.website/)**
+- Arabic edition: [mikhbar.website/ar/](https://mikhbar.website/ar/)
+- English edition: [mikhbar.website/en/](https://mikhbar.website/en/)
+
+مِخبار منصة تقنية مستقلة بالعربية والإنجليزية، وموقعها الرسمي هو **mikhbar.website**.
 
 ## Official website
 
